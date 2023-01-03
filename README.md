@@ -12,8 +12,7 @@ Hi! I'm KemasRafli, a web developer and students majoring in information systems
 Wanna know more?
 Visit me at [My portofolio](https://kemasrafli.github.io)
 
-- 🔭 I’m currently working on **Code.id**
-- 🌱 I’m currently learning **Mobile Development with Kotlin**
+- 🌱 I’m currently learning **Backend Development with Django**
 - 📫 How to reach me: **You can reach me at [LinkedIn](https://www.linkedin.com/in/kemas-rafli/)**
 - 😄 Pronouns: **he/him**
 - 🤘 Rock music listener, to gain power!
@@ -23,13 +22,9 @@ Visit me at [My portofolio](https://kemasrafli.github.io)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-
 ![Node.js](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=node.js&logoColor=4FC08D)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
