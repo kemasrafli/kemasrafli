@@ -12,7 +12,6 @@ Hi! I'm KemasRafli, a web developer and students majoring in information systems
 Wanna know more?
 Visit me at [My portofolio](https://kemasrafli.github.io)
 
-- 🌱 I’m currently learning **Backend Development with Django**
 - 📫 How to reach me: **You can reach me at [LinkedIn](https://www.linkedin.com/in/kemas-rafli/)**
 - 😄 Pronouns: **he/him**
 - 🤘 Rock music listener, to gain power!
