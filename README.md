@@ -5,8 +5,8 @@
 
 Hi! I'm [KemasRafli](https://kemasrafli.github.io), a web developer and students majoring in information systems at Bina Sarana Informatika University from West Java, Indonesia. I am very enthusiastic about techonological developments and really like to learn something new. Beside coding, i like playing some games and guitar to fill free time.
 
-🔭 I’m an Web Developer.
-🌱 I’m currently learning Python and Golang.
+- 🔭 I’m an Web Developer.
+- 🌱 I’m currently learning Python and Golang.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kemas-rafli/) or [Telegram](https://t.me/kemasrafli) or [Email](mailto:kemasmrafli@gmail.com)**
 - 😄 Pronouns: **he/him**
 - 🤘 Rock music listener, to gain power!
