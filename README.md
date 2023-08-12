@@ -7,23 +7,23 @@
 
 Hi! I'm [KemasRafli](https://kemasrafli.github.io), a web developer and students majoring in information systems at Bina Sarana Informatika University from West Java, Indonesia. I am very enthusiastic about techonological developments and really like to learn something new. Beside coding, i like playing some games and guitar to fill free time.
 
-- 🔭 I’m an Web Developer.
-- 🌱 I’m currently learning Python and Golang.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kemas-rafli/) or [Telegram](https://t.me/kemasrafli) or [Email](mailto:kemasmrafli@gmail.com)**
 - 😄 Pronouns: **he/him**
-- 🤘 Rock music listener, to gain power!
+- 🔭 I’m an Backend Developer.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kemas-rafli/) or [Telegram](https://t.me/kemasrafli) or [Email](mailto:kemasmrafli@gmail.com)**
 
 ## Programming Language and Technologies
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=node.js&logoColor=4FC08D)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-yellow?style=for-the-badge&logo=sql&logoColor=white)
 
 <!--
 **kemasrafli/kemasrafli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
